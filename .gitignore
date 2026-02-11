@@ -6,3 +6,5 @@ claude/
 CLAUDE.md
 # Ignore environment configuration file
 .env
+# Ignore note folder
+note/
