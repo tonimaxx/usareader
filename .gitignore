@@ -1,0 +1,8 @@
+.toni/
+# Ignore Claude-related files and folders
+claude/
+*.claude
+# Ignore Claude-related markdown file
+CLAUDE.md
+# Ignore environment configuration file
+.env
